@@ -1,6 +1,6 @@
 from math import sin, cos, atan2, radians, sqrt, ceil
               
-print("Latitude & Longitude Distance Calculator")
+print("Latitude/Longitude Distance Calculator")
 lat1 = int(input("Input Latitude 1 : "))
 lat2 = int(input("Input Latitude 2 : "))
 lon1 = int(input("Input Longitude 1 : "))
